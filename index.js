@@ -1,3 +1,5 @@
+var word = 'Rafael'
+
 function shout(string) {
   return string.toUpperCase()
 }
